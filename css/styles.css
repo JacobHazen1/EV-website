@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #d6370c;
+  color: #208a61;
   text-decoration: underline;
 }
 
@@ -2443,8 +2443,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
-  border-color: #ee3e0d;
+  background-color: #208a61;
+  border-color: #208a61;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10066,6 +10066,10 @@ hr.light {
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
+  }
+    /* Changing the logo color when on mobile. I'm not sure it's the best way thought */
+  #mainNav.navbar-scrolled .logo {
+    content:url("https://lh3.google.com/u/0/d/1Tb7l83_TX1zVFNkmb30m2fD4iMByXp2S=w2560-h1380-iv1");
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
     color: #2d9e73;
