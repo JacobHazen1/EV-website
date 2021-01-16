@@ -10069,7 +10069,7 @@ hr.light {
   }
     /* Changing the logo color when on mobile. I'm not sure it's the best way thought */
   #mainNav.navbar-scrolled .logo {
-    content:url("https://lh3.google.com/u/0/d/1Tb7l83_TX1zVFNkmb30m2fD4iMByXp2S=w2560-h1380-iv1");
+    content:url("../assets/img/CCZEVlogorectangle-color.png");
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
     color: #2d9e73;
